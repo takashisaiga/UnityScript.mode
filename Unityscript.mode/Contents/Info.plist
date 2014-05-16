@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>SEEMode.JavaScript</string>
+	<string>SEEMode.UnityScript</string>
 	<key>CFBundleName</key>
 	<string>UnityScript</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>2014 Takashi Saiga</string>
+	<string>2014 Takashi Saiga http://about.me/takashisaiga</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.0.1</string>
+	<string>0.0.2</string>
 	<key>CFBundleVersion</key>
-	<string>0.0.1</string>
+	<string>0.0.2</string>
 	<key>CFBundleGetInfoString</key>
-	<string>0.0.1, Copyright takashisaiga.jp 2014</string>
+	<string>0.0.2, Copyright takashisaiga.jp 2014</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>

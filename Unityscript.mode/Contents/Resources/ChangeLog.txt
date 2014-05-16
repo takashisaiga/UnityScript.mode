@@ -1,0 +1,5 @@
+Changes with Version 0.0.2
+    *) 変数名の対応（var / const が先頭でない場合も候補として現れるように）
+
+Changes with Version 0.0.1
+    *) 初回リリース、JavaScript module からの変更

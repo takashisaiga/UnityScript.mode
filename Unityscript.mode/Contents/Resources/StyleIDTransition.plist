@@ -2,25 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>/JavaScript/AutodocComment</key>
+	<key>/UnityScript/AutodocComment</key>
 	<string>AutodocComment</string>
-	<key>/JavaScript/Characters</key>
+	<key>/UnityScript/Characters</key>
 	<string>_Default.Characters</string>
-	<key>/JavaScript/Comment</key>
+	<key>/UnityScript/Comment</key>
 	<string>Comment</string>
-	<key>/JavaScript/FunctionRegex</key>
+	<key>/UnityScript/FunctionRegex</key>
 	<string>_Default.FunctionRegex</string>
-	<key>/JavaScript/Keywords</key>
+	<key>/UnityScript/Keywords</key>
 	<string>_Default.Keywords</string>
-	<key>/JavaScript/Numbers</key>
+	<key>/UnityScript/Numbers</key>
 	<string>_Default.Numbers</string>
-	<key>/JavaScript/Regular Expressions</key>
+	<key>/UnityScript/Regular Expressions</key>
 	<string>/Regular Expressions/</string>
-	<key>/JavaScript/SingleComment</key>
+	<key>/UnityScript/SingleComment</key>
 	<string>SingleComment</string>
-	<key>/JavaScript/SingleString</key>
+	<key>/UnityScript/SingleString</key>
 	<string>SingleString</string>
-	<key>/JavaScript/String</key>
+	<key>/UnityScript/String</key>
 	<string>String</string>
 	<key>_Default</key>
 	<string>_Default</string>

@@ -15,22 +15,22 @@
 		<array>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.JavaScript</string>
+				<string>SEEMode.UnityScript</string>
 				<key>Type</key>
-				<string>JavaScript Include</string>
+				<string>UnityScript Include</string>
 			</dict>
 		</array>
 		<key>MatchContexts</key>
 		<array>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.JavaScript</string>
+				<string>SEEMode.UnityScript</string>
 				<key>Type</key>
 				<string>Functions</string>
 			</dict>
 			<dict>
 				<key>State</key>
-				<string>SEEMode.JavaScript</string>
+				<string>SEEMode.UnityScript</string>
 				<key>Type</key>
 				<string>Variable Declarations</string>
 			</dict>
@@ -17341,6 +17341,6 @@
 	<key>LineCompletion</key>
 	<string>;</string>
 	<key>Name</key>
-	<string>JavaScript</string>
+	<string>UnityScript</string>
 </dict>
 </plist>

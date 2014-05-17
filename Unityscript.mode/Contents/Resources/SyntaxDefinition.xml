@@ -11,7 +11,7 @@
     <states>
     
        <default id="Base" scope="meta.default">
-<!-- 
+
 		   <keywords id="Objects" useforautocomplete="yes" scope="support.class.standard.js">
                 <string>Object</string>
                 <string>Function</string>
@@ -30,7 +30,7 @@
                 <string>TypeError</string>
                 <string>URIError</string>
             </keywords>
--->
+                        
             <keywords id="Keywords" useforautocomplete="yes" scope="keyword.control.js">
 <!--
 				<string>break</string>
@@ -2962,7 +2962,7 @@
 				<string>zMotion</string>
 				<string>zero</string>
 			</keywords>
-<!--
+
             <keywords id="Types" useforautocomplete="yes" scope="keyword.type.js">
                 <string>boolean</string>
                 <string>byte</string>
@@ -2976,7 +2976,7 @@
                 <string>short</string>
                 <string>void</string>
             </keywords>
--->
+
             <keywords id="Operators" useforautocomplete="no" scope="language.operator">
                 <regex>([\+\-\*\/\=\!\&lt;\&gt;\%])</regex>
             </keywords>

@@ -1,3 +1,7 @@
+Changes with Version 0.0.3
+    *) SubEthaEditのJavascript for Unity engineとの整合
+       http://www.codingmonkeys.de/subethaedit/old/modes/UnityJavascript.mode.zip
+
 Changes with Version 0.0.2
     *) 変数名の対応（var / const が先頭でない場合も候補として現れるように）
     *) 不要なファイルの削除など

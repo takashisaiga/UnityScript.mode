@@ -90,7 +90,6 @@
         <arguments>([\$A-Za-z0-9_]+)[ ,]*</arguments>
     </symbol>
 
-    <!--
     <symbol id="CVS/SVN conflict" font-weight="bold" image="SymbolWarn" indentation="0" ignoreblocks="no">
         <regex>^&lt;&lt;&lt;&lt;&lt;&lt;&lt;([\n\r]|.)*?======([\n\r]|.)*?&gt;&gt;&gt;&gt;&gt;&gt;&gt;</regex>
         <postprocess>
@@ -98,7 +97,6 @@
             <replace>Versioning conflict!</replace>
         </postprocess>
     </symbol>
-	-->
 
     <!-- CODA -->
     <symbol id="Variable Declarations" ignoreblocks="yes" hidden="yes" useforautocomplete="yes">

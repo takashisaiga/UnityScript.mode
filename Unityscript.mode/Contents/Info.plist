@@ -9,11 +9,11 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>©2014 Takashi Saiga http://about.me/takashisaiga</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.0.3</string>
+	<string>0.0.4</string>
 	<key>CFBundleVersion</key>
-	<string>0.0.3</string>
+	<string>0.0.4</string>
 	<key>CFBundleGetInfoString</key>
-	<string>0.0.3, Copyright takashisaiga.jp 2014</string>
+	<string>0.0.4, Copyright takashisaiga.jp 2014</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>

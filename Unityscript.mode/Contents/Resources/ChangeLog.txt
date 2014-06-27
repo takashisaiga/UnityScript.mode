@@ -1,3 +1,6 @@
+Changes with Version 0.0.4
+    *) AutocompleteAdditions.txtの内容の廃止、候補ワードのダブりを無くすため
+
 Changes with Version 0.0.3
     *) SubEthaEditのJavascript for Unity engineとの整合
        http://www.codingmonkeys.de/subethaedit/old/modes/UnityJavascript.mode.zip
